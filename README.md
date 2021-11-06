@@ -6,5 +6,9 @@ Create an ETL pipeline to Load tables into an existing dataset via Google Bigque
 
 # Technologies
   - Apache Airflow
-  - Python 3
+      - bashOperator
+      - dummyOperator
+      - BigQueryOperator
+  
+  - Python3
   - Google Bigquery Dataware House
